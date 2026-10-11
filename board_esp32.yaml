@@ -50,6 +50,7 @@ preferences:
 
 ota:
   - platform: esphome
+    encryption:
 
 safe_mode:
 
